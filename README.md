@@ -21,8 +21,8 @@ Results-driven software developer with expertise in JavaScript ecosystem solutio
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subodhrana390&layout=compact&theme=dark)](https://github.com/Subodhrana390)  
 
 ## Contact  
-📧 **Email:** subodh.rana@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/subodhrana](https://www.linkedin.com/in/subodhrana)  
-🐦 **Twitter:** [@SubodhRanaDev](https://twitter.com/SubodhRana389)  
+📧 **Email:** Subodhrana390@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/subodhrana](https://www.linkedin.com/in/subodhrana390)  
+🐦 **Twitter:** [@SubodhRanaDev](https://twitter.com/SubodhRana390)  
 
 *Open to technical collaborations and challenging projects.*
