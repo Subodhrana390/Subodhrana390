@@ -1,28 +1,28 @@
-# Hi there 👋, I'm Subodhrana390
+# Subodh Rana  
+**Software Developer | Open-Source Contributor | Problem Solver**
 
-## About Me
-I am a passionate developer with a keen interest in open-source projects and software development. I enjoy solving complex problems and learning new technologies.
+## Professional Summary  
+Results-driven software developer with expertise in JavaScript ecosystem solutions. Specialized in building performant web applications with modern frameworks.
 
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
-- 💬 Ask me about Python, JavaScript, and web development.
-- ⚡ Fun fact: I love exploring new programming languages and frameworks.
+## Technical Skills  
+**Languages:** JavaScript (ES6+), TypeScript, C++  
+**Frontend:** React, Next.js, HTML5, CSS3  
+**Backend:** Node.js, Express  
+**Databases:** PostgreSQL, MongoDB  
+**Tools:** Git, Docker, AWS (EC2, S3)  
 
-## Skills
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** React, Node.js, Django
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Technologies:** Git, Docker, Kubernetes, AWS
+## Current Focus  
+- Developing high-performance web applications  
+- Contributing to open-source projects  
+- Expanding cloud infrastructure knowledge  
 
-## GitHub Stats
-![Subodhrana390's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subodhrana390&show_icons=true&theme=radical)
+## GitHub Activity  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subodhrana390&show_icons=true&theme=dark)](https://github.com/Subodhrana390)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subodhrana390&layout=compact&theme=dark)](https://github.com/Subodhrana390)  
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subodhrana390&layout=compact&theme=radical)
+## Contact  
+📧 **Email:** subodh.rana@example.com  
+🔗 **LinkedIn:** [linkedin.com/in/subodhrana](https://www.linkedin.com/in/subodhrana)  
+🐦 **Twitter:** [@SubodhRanaDev](https://twitter.com/SubodhRana389)  
 
-## Contact Me
-- **Email:** subodhrana390@example.com
-- **LinkedIn:** [Subodhrana390](https://www.linkedin.com/in/Subodhrana390/)
-- **Twitter:** [@Subodhrana390](https://twitter.com/Subodhrana390)
-
-Feel free to reach out to me for any collaboration or project ideas. Let's build something amazing together!
+*Open to technical collaborations and challenging projects.*
