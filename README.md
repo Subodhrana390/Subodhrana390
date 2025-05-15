@@ -1,5 +1,5 @@
 # 👨‍💻 Subodh Rana  
-**`Digital Craftsman (Developer)`**  
+**`Software Developer`**  
 
 ⚡ Turning ideas into reality with code  
 🌐 Building web experiences that matter  
@@ -46,13 +46,13 @@
 ## 🔗 Let's Connect  
 
 <p align="center">
-  <a href="mailto:subodh.rana@example.com">
+  <a href="mailto:subodhrana390@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/subodhrana">
+  <a href="https://linkedin.com/in/subodhrana390">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/SubodhRanaDev">
+  <a href="https://twitter.com/SubodhRana390">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
